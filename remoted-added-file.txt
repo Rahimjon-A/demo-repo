@@ -1,1 +1,5 @@
 i create this file from git hub in order to learn git pull  command
+
+I also created this in order to delete
+
+git gui& => for open  extra window to more features
