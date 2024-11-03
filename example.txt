@@ -2,3 +2,5 @@ Examples
 
 Git gui& 
 And return it to stage first
+
+Some  thing  is added
