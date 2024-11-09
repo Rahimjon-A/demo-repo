@@ -10,3 +10,8 @@ Feature branch
 Feature branch
 Feature branch
 Some conflic should appear here
+Some conflic should appear here
+Some conflic should appear here
+Some conflic should appear here
+Some conflic should appear here
+Some conflic should appear here
